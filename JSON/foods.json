@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "Name": "Ratatouille",
+        "Movie": "Ratatouille 2007",
+        "Unit": 1,
+        "Price": 10.00
+    },
+    {
+        "id": 2,
+        "Name": "Beignets",
+        "Movie": "The Princess and the Frog 2009",
+        "Unit": 1,
+        "Price": 10.00
+    },
+    {
+        "id": 3,
+        "Name": "Cheese Souffle",
+        "Movie": "Beauty and the Beast 1991",
+        "Unit": 1,
+        "Price": 10.00
+    },
+    {
+        "id": 4,
+        "Name": "Empire Biscuits",
+        "Movie": "Brave 2012",
+        "Unit": 6,
+        "Price": 10.00
+    },
+    {
+        "id": 5,
+        "Name": "Succotash",
+        "Movie": "The Many Adventures of Winnie the Pooh 1977",
+        "Unit": 1,
+        "Price": 8.00
+    },
+    {
+        "id": 6,
+        "Name": "Gumbo",
+        "Movie": "The Princess and the Frog 2009",
+        "Unit": 1,
+        "Price": 15.00
+    },
+    {
+        "id": 7,
+        "Name": "Spaghetti and Meatballs",
+        "Movie": "Lady and the Tramp 1955",
+        "Unit": 1,
+        "Price": 15.00
+    },
+    {
+        "id": 8,
+        "Name": "Gooseberry Pie",
+        "Movie": "Snow White and The Seven Dwarfs 1937",
+        "Unit": 1,
+        "Price": 10.00
+    },
+    {
+        "id": 9,
+        "Name": "The Grey Stuff",
+        "Movie": "Beauty and the Beast 1991",
+        "Unit": 1,
+        "Price": 8.00
+    }
+]

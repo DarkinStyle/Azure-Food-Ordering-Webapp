@@ -1,0 +1,25 @@
+{
+  "name": "uccd2223-assignment",
+  "version": "1.0.0",
+  "description": "Assignment For Website Design and Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrDubuPhD/UCCD2223-Assignment.git"
+  },
+  "keywords": [
+    "Website",
+    "Javascript",
+    "jQuery",
+    "CSS"
+  ],
+  "author": "Sean Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrDubuPhD/UCCD2223-Assignment/issues"
+  },
+  "homepage": "https://github.com/DrDubuPhD/UCCD2223-Assignment#readme"
+}
